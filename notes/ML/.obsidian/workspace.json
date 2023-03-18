@@ -52,9 +52,21 @@
                 "file": "Excalidraw/Drawing 2023-03-16 22.24.10.excalidraw.md"
               }
             }
+          },
+          {
+            "id": "5240c28a5f6d9130",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ranger.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -120,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-03-16 22.24.10.excalidraw.md",
+                "file": "Ranger.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-03-16 22.24.10.excalidraw.md",
+                "file": "Ranger.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-03-16 22.24.10.excalidraw.md"
+                "file": "Ranger.md"
               }
             }
           }
@@ -182,10 +194,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1f569a02129b2c77",
+  "active": "5240c28a5f6d9130",
   "lastOpenFiles": [
-    "Untitled.md",
     "Excalidraw/Drawing 2023-03-16 22.24.10.excalidraw.md",
+    "Ranger.md",
+    "Untitled.md",
     "Excalidraw",
     "Матрицы W.md",
     "Такие оценки.md"
