@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hyper.md",
+                "file": "Ranger.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hyper.md",
+                "file": "Ranger.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hyper.md"
+                "file": "Ranger.md"
               }
             }
           }
@@ -206,10 +206,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f9916ae6902fe2f7",
+  "active": "5240c28a5f6d9130",
   "lastOpenFiles": [
-    "Ranger.md",
     "Hyper.md",
+    "Ranger.md",
     "Excalidraw/Drawing 2023-03-16 22.24.10.excalidraw.md",
     "Untitled.md",
     "Excalidraw",
